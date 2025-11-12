@@ -1,4 +1,5 @@
 # PythonGitLinux
+Team : Basile, Sherrynne, Raphaël 
 <<<<<<< HEAD
 HARCELEMENT
 =======
